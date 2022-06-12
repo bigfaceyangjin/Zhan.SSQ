@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\朱展\\Self-Study\\学习资料\\01.高级编程\\01、高级编程11-19\\demo\\双色球项目\\Zhan.SSQ\\Zhan.SSQ.csproj": {}
+  },
+  "projects": {
+    "D:\\朱展\\Self-Study\\学习资料\\01.高级编程\\01、高级编程11-19\\demo\\双色球项目\\Zhan.SSQ\\Zhan.SSQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\朱展\\Self-Study\\学习资料\\01.高级编程\\01、高级编程11-19\\demo\\双色球项目\\Zhan.SSQ\\Zhan.SSQ.csproj",
+        "projectName": "Zhan.SSQ",
+        "projectPath": "D:\\朱展\\Self-Study\\学习资料\\01.高级编程\\01、高级编程11-19\\demo\\双色球项目\\Zhan.SSQ\\Zhan.SSQ.csproj",
+        "packagesPath": "C:\\Users\\杨锦\\.nuget\\packages\\",
+        "outputPath": "D:\\朱展\\Self-Study\\学习资料\\01.高级编程\\01、高级编程11-19\\demo\\双色球项目\\Zhan.SSQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\ZhuZhan\\VisualStudio22\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\杨锦\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
