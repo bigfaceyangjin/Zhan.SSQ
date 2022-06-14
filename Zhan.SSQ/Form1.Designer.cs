@@ -52,9 +52,11 @@ namespace Zhan.SSQ
 			this.groupBox1.Controls.Add(this.lbl_red2);
 			this.groupBox1.Controls.Add(this.lbl_red1);
 			this.groupBox1.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-			this.groupBox1.Location = new System.Drawing.Point(78, 59);
+			this.groupBox1.Location = new System.Drawing.Point(50, 42);
+			this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
 			this.groupBox1.Name = "groupBox1";
-			this.groupBox1.Size = new System.Drawing.Size(922, 310);
+			this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+			this.groupBox1.Size = new System.Drawing.Size(587, 220);
 			this.groupBox1.TabIndex = 0;
 			this.groupBox1.TabStop = false;
 			this.groupBox1.Text = "双色球结果区";
@@ -64,9 +66,10 @@ namespace Zhan.SSQ
 			this.lbl_blue.AutoSize = true;
 			this.lbl_blue.Font = new System.Drawing.Font("Microsoft YaHei UI", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
 			this.lbl_blue.ForeColor = System.Drawing.Color.DodgerBlue;
-			this.lbl_blue.Location = new System.Drawing.Point(743, 154);
+			this.lbl_blue.Location = new System.Drawing.Point(473, 109);
+			this.lbl_blue.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.lbl_blue.Name = "lbl_blue";
-			this.lbl_blue.Size = new System.Drawing.Size(56, 41);
+			this.lbl_blue.Size = new System.Drawing.Size(38, 28);
 			this.lbl_blue.TabIndex = 6;
 			this.lbl_blue.Text = "00";
 			// 
@@ -75,9 +78,10 @@ namespace Zhan.SSQ
 			this.lbl_red6.AutoSize = true;
 			this.lbl_red6.Font = new System.Drawing.Font("Microsoft YaHei UI", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
 			this.lbl_red6.ForeColor = System.Drawing.Color.Red;
-			this.lbl_red6.Location = new System.Drawing.Point(545, 154);
+			this.lbl_red6.Location = new System.Drawing.Point(347, 109);
+			this.lbl_red6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.lbl_red6.Name = "lbl_red6";
-			this.lbl_red6.Size = new System.Drawing.Size(56, 41);
+			this.lbl_red6.Size = new System.Drawing.Size(38, 28);
 			this.lbl_red6.TabIndex = 5;
 			this.lbl_red6.Text = "00";
 			// 
@@ -86,9 +90,10 @@ namespace Zhan.SSQ
 			this.lbl_red5.AutoSize = true;
 			this.lbl_red5.Font = new System.Drawing.Font("Microsoft YaHei UI", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
 			this.lbl_red5.ForeColor = System.Drawing.Color.Red;
-			this.lbl_red5.Location = new System.Drawing.Point(438, 154);
+			this.lbl_red5.Location = new System.Drawing.Point(279, 109);
+			this.lbl_red5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.lbl_red5.Name = "lbl_red5";
-			this.lbl_red5.Size = new System.Drawing.Size(56, 41);
+			this.lbl_red5.Size = new System.Drawing.Size(38, 28);
 			this.lbl_red5.TabIndex = 4;
 			this.lbl_red5.Text = "00";
 			// 
@@ -97,9 +102,10 @@ namespace Zhan.SSQ
 			this.lbl_red4.AutoSize = true;
 			this.lbl_red4.Font = new System.Drawing.Font("Microsoft YaHei UI", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
 			this.lbl_red4.ForeColor = System.Drawing.Color.Red;
-			this.lbl_red4.Location = new System.Drawing.Point(333, 154);
+			this.lbl_red4.Location = new System.Drawing.Point(212, 109);
+			this.lbl_red4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.lbl_red4.Name = "lbl_red4";
-			this.lbl_red4.Size = new System.Drawing.Size(56, 41);
+			this.lbl_red4.Size = new System.Drawing.Size(38, 28);
 			this.lbl_red4.TabIndex = 3;
 			this.lbl_red4.Text = "00";
 			// 
@@ -108,9 +114,10 @@ namespace Zhan.SSQ
 			this.lbl_red3.AutoSize = true;
 			this.lbl_red3.Font = new System.Drawing.Font("Microsoft YaHei UI", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
 			this.lbl_red3.ForeColor = System.Drawing.Color.Red;
-			this.lbl_red3.Location = new System.Drawing.Point(237, 154);
+			this.lbl_red3.Location = new System.Drawing.Point(151, 109);
+			this.lbl_red3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.lbl_red3.Name = "lbl_red3";
-			this.lbl_red3.Size = new System.Drawing.Size(56, 41);
+			this.lbl_red3.Size = new System.Drawing.Size(38, 28);
 			this.lbl_red3.TabIndex = 2;
 			this.lbl_red3.Text = "00";
 			// 
@@ -119,9 +126,10 @@ namespace Zhan.SSQ
 			this.lbl_red2.AutoSize = true;
 			this.lbl_red2.Font = new System.Drawing.Font("Microsoft YaHei UI", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
 			this.lbl_red2.ForeColor = System.Drawing.Color.Red;
-			this.lbl_red2.Location = new System.Drawing.Point(135, 154);
+			this.lbl_red2.Location = new System.Drawing.Point(86, 109);
+			this.lbl_red2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.lbl_red2.Name = "lbl_red2";
-			this.lbl_red2.Size = new System.Drawing.Size(56, 41);
+			this.lbl_red2.Size = new System.Drawing.Size(38, 28);
 			this.lbl_red2.TabIndex = 1;
 			this.lbl_red2.Text = "00";
 			// 
@@ -130,18 +138,20 @@ namespace Zhan.SSQ
 			this.lbl_red1.AutoSize = true;
 			this.lbl_red1.Font = new System.Drawing.Font("Microsoft YaHei UI", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
 			this.lbl_red1.ForeColor = System.Drawing.Color.Red;
-			this.lbl_red1.Location = new System.Drawing.Point(38, 154);
+			this.lbl_red1.Location = new System.Drawing.Point(24, 109);
+			this.lbl_red1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.lbl_red1.Name = "lbl_red1";
-			this.lbl_red1.Size = new System.Drawing.Size(56, 41);
+			this.lbl_red1.Size = new System.Drawing.Size(38, 28);
 			this.lbl_red1.TabIndex = 0;
 			this.lbl_red1.Text = "00";
 			// 
 			// btn_stop
 			// 
 			this.btn_stop.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-			this.btn_stop.Location = new System.Drawing.Point(648, 428);
+			this.btn_stop.Location = new System.Drawing.Point(412, 303);
+			this.btn_stop.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
 			this.btn_stop.Name = "btn_stop";
-			this.btn_stop.Size = new System.Drawing.Size(158, 41);
+			this.btn_stop.Size = new System.Drawing.Size(101, 29);
 			this.btn_stop.TabIndex = 7;
 			this.btn_stop.Text = "Stop";
 			this.btn_stop.UseVisualStyleBackColor = true;
@@ -150,9 +160,10 @@ namespace Zhan.SSQ
 			// btn_start
 			// 
 			this.btn_start.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-			this.btn_start.Location = new System.Drawing.Point(233, 428);
+			this.btn_start.Location = new System.Drawing.Point(148, 303);
+			this.btn_start.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
 			this.btn_start.Name = "btn_start";
-			this.btn_start.Size = new System.Drawing.Size(158, 41);
+			this.btn_start.Size = new System.Drawing.Size(101, 29);
 			this.btn_start.TabIndex = 1;
 			this.btn_start.Text = "Start";
 			this.btn_start.UseVisualStyleBackColor = true;
@@ -160,15 +171,17 @@ namespace Zhan.SSQ
 			// 
 			// Form1
 			// 
-			this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
+			this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(1075, 544);
+			this.ClientSize = new System.Drawing.Size(684, 385);
 			this.Controls.Add(this.btn_stop);
 			this.Controls.Add(this.groupBox1);
 			this.Controls.Add(this.btn_start);
+			this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
 			this.Name = "Form1";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "FrmSSQ";
+			this.Load += new System.EventHandler(this.Form1_Load);
 			this.groupBox1.ResumeLayout(false);
 			this.groupBox1.PerformLayout();
 			this.ResumeLayout(false);

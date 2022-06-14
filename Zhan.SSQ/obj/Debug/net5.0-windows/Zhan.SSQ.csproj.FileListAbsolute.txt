@@ -16,3 +16,21 @@ D:\朱展\Self-Study\学习资料\01.高级编程\01、高级编程11-19\demo\�
 D:\朱展\Self-Study\学习资料\01.高级编程\01、高级编程11-19\demo\双色球项目\Zhan.SSQ\obj\Debug\net5.0-windows\ref\Zhan.SSQ.dll
 D:\朱展\Self-Study\学习资料\01.高级编程\01、高级编程11-19\demo\双色球项目\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.pdb
 D:\朱展\Self-Study\学习资料\01.高级编程\01、高级编程11-19\demo\双色球项目\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.genruntimeconfig.cache
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\bin\Debug\net5.0-windows\Zhan.SSQ.exe
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\bin\Debug\net5.0-windows\Zhan.SSQ.deps.json
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\bin\Debug\net5.0-windows\Zhan.SSQ.runtimeconfig.json
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\bin\Debug\net5.0-windows\Zhan.SSQ.runtimeconfig.dev.json
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\bin\Debug\net5.0-windows\Zhan.SSQ.dll
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\bin\Debug\net5.0-windows\ref\Zhan.SSQ.dll
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\bin\Debug\net5.0-windows\Zhan.SSQ.pdb
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.csproj.AssemblyReference.cache
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.Form1.resources
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.csproj.GenerateResource.cache
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.AssemblyInfoInputs.cache
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.AssemblyInfo.cs
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.csproj.CoreCompileInputs.cache
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.dll
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\obj\Debug\net5.0-windows\ref\Zhan.SSQ.dll
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.pdb
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.genruntimeconfig.cache
