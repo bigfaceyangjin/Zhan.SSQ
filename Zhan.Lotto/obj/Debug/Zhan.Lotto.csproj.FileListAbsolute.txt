@@ -1,0 +1,10 @@
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.Lotto\obj\Debug\Zhan.Lotto.csproj.AssemblyReference.cache
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.Lotto\obj\Debug\Zhan.Lotto.Index.resources
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.Lotto\obj\Debug\Zhan.Lotto.Properties.Resources.resources
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.Lotto\obj\Debug\Zhan.Lotto.csproj.GenerateResource.cache
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.Lotto\obj\Debug\Zhan.Lotto.csproj.CoreCompileInputs.cache
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.Lotto\bin\Debug\Zhan.Lotto.exe.config
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.Lotto\bin\Debug\Zhan.Lotto.exe
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.Lotto\bin\Debug\Zhan.Lotto.pdb
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.Lotto\obj\Debug\Zhan.Lotto.exe
+E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.Lotto\obj\Debug\Zhan.Lotto.pdb

@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Media;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -27,6 +28,7 @@ namespace Zhan.SSQ
 		private bool flag = true;
 		//task线程集合
 		private List<Task> taskList = new List<Task>();
+		private SoundPlayer soundPlayer = new SoundPlayer();//只能播放wav文件
 		/// <summary>
 		/// 项目启动
 		/// </summary>
@@ -105,6 +107,11 @@ namespace Zhan.SSQ
 				
 				//方法二
 				Task.WhenAll(taskList.ToArray()).ContinueWith(t => { this.ShowResult(); });
+
+				//音效  
+				soundPlayer.SoundLocation = string.Format(Application.StartupPath+ "中国风仙侠道骨纯音乐_爱给网_aigei_com.wav");
+				soundPlayer.Load();
+				soundPlayer.Play();//异步播放
 			}
 			catch (Exception ex)
 			{
@@ -154,6 +161,7 @@ namespace Zhan.SSQ
 			this.flag = false;
 			this.btn_stop.Enabled = false;
 			this.btn_start.Enabled = true; 
+			soundPlayer.Stop();
 			//CancellationTokenSource cls = new CancellationTokenSource();
 			//cls.Cancel();
 		}
