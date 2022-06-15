@@ -23,7 +23,6 @@ E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\bin\
 E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\bin\Debug\net5.0-windows\Zhan.SSQ.dll
 E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\bin\Debug\net5.0-windows\ref\Zhan.SSQ.dll
 E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\bin\Debug\net5.0-windows\Zhan.SSQ.pdb
-E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.csproj.AssemblyReference.cache
 E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.Form1.resources
 E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.csproj.GenerateResource.cache
 E:\22年.net资料\01、高级编程11-19\双色球项目\Zhan.SSQ\Zhan.SSQ\obj\Debug\net5.0-windows\Zhan.SSQ.GeneratedMSBuildEditorConfig.editorconfig

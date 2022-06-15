@@ -16,6 +16,7 @@ namespace Zhan.Lotto
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
+			MyLog.SetLog("first");
 			Application.Run(new Index());
 		}
 	}
