@@ -74,17 +74,19 @@ namespace Zhan.SSQ
 						taskList.Add(Task.Run(() => {
 							while (flag)
 							{
+								Thread.Sleep(200);
 								int index = RandomHelper.GetRandom(0, this.blueStrs.Length);
 								//this.lbl_blue.Text = blueStrs[index];//子线程无法修改界面 这是主线程的事
 								this.UpdateLblTxt(control, blueStrs[index]);
 							}
 						})); 
 					}
-					if (control is Label && control.Name.Contains("red")) //红球
+					else
 					{
 						taskList.Add(taskFactory.StartNew(() => {
 							while (flag)
 							{
+								Thread.Sleep(200);
 								int index = RandomHelper.GetRandom(0, redStrs.Length);
 								lock (SSQ)
 								{

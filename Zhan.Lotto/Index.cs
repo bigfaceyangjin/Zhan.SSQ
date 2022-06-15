@@ -68,6 +68,7 @@ namespace Zhan.Lotto
 				Task.Run(()=> {
 					while (true)
 					{
+						Thread.Sleep(200);
 						if (!IsExistsRed("00", "red") && !IsExistsRed("00","blue"))
 						{
 							this.btn_end.Enabled = true;
@@ -193,6 +194,7 @@ namespace Zhan.Lotto
 							Task.Run(() => {
 								while (this.IsGo)
 								{
+									Thread.Sleep(200);
 									string num = balls[GetRandom(0, balls.Length)];//随机球号
 									lock (dlt)//只允许一个线程进来判断
 									{
